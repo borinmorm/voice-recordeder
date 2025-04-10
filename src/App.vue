@@ -3,7 +3,7 @@
     <!-- Header -->
     <header class="bg-white shadow-sm">
       <div class="container mx-auto px-4 py-4">
-        <h1 class="text-xl font-semibold text-gray-800">Voice Recorder</h1>
+        <h1 class="text-xl font-semibold text-gray-800">Voice Recorder Testing</h1>
       </div>
     </header>
 
